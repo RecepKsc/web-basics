@@ -7,7 +7,7 @@ Created as part of my learning journey.
 - HTML
 - CSS
 - JavaScript
--MySQL
+- MySQL
 
 ## Purpose
 This repository is created to practice basic web development concepts and improve coding skills.
